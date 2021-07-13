@@ -1,4 +1,4 @@
-# Restaff-HouseOfNorway-Prodject
+# Restaff-HouseOfNorway-Project
 
 Shop Clothing
 Cloudinary + Heroku + Gearhost
